@@ -15,7 +15,7 @@ import (
 	v2rayObfs "github.com/Dreamacro/clash/component/v2ray-plugin"
 	C "github.com/Dreamacro/clash/constant"
 
-	"github.com/Dreamacro/go-shadowsocks2/core"
+	"github.com/WhiteSoulss/go-shadowsocks2/core"
 )
 
 type ShadowSocks struct {
